@@ -14,3 +14,4 @@ main/*.json
 !Food\ Datasets/*/*.md
 !Food\ Datasets/USDA-FNDDS/*.xlsx
 Food\ Datasets/USDA-FNDDS/cleaned_food_category.txt
+.env
